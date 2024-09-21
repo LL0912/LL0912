@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Lei Lei
 
 <!--
 **LL0912/LL0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

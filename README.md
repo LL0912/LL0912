@@ -2,7 +2,7 @@
 🌱 **Research** 🌱
 |   Topic   |     Title     |    Resource  | Publication
 |:---------:|:-------------:|:------------:|:---------:|
-|   One-Class Crop Mapping   |   [DOCC: Deep one-class crop classification via positive and unlabeled learning for multi-modal satellite imagery.](https://www.sciencedirect.com/science/article/pii/S0303243421003056)       |    [![Static Badge](https://img.shields.io/badge/PDF-Download-green)]  | JAG
+|   One-Class Crop Mapping   |   [DOCC: Deep one-class crop classification via positive and unlabeled learning for multi-modal satellite imagery.](https://www.sciencedirect.com/science/article/pii/S0303243421003056)       |    [![Static Badge](https://img.shields.io/badge/PDF-Download-green)](https://www.sciencedirect.com/science/article/pii/S0303243421003056)  | JAG
 
 <!--
 **LL0912/LL0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
